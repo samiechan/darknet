@@ -1,7 +1,6 @@
 import csv
 import os
 import boto3
-from progress_bar import printProgressBar
 from botocore import UNSIGNED
 from botocore.config import Config
 
